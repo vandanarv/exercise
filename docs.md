@@ -6,5 +6,5 @@ Note that this toothbrush is totally safe to use for children, adults, pets, wil
 
 The toothbrush requires [need info here].
 
-A new line.
+A new line. First resolve the conflict!
 
